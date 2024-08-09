@@ -1,0 +1,538 @@
+CAMPUS_NO,COURSE_CODE,COURSE_NAME,CRD_HRS,STUDY_CODE,STUDY_DESC,ACTIVITY_CODE,ACTIVITY_DESC,SECTION,DEPT_NO,DEPT_NAME,CLASS_TIMES,Unnamed: 12,,STATUS
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,2,47,LANGUAGE CENTER,[13:30-14:20 DAR B109 Sunday Tuesday Thursday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,4,47,LANGUAGE CENTER,[13:30-14:20 DAR B110 Sunday Tuesday Thursday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,5,47,LANGUAGE CENTER,[08:30-09:20 DAR 107 Sunday Tuesday Thursday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,8,47,LANGUAGE CENTER,[13:30-14:20 DAR B102 Sunday Tuesday Thursday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,9,47,LANGUAGE CENTER,[11:30-12:20 DAR B102 Sunday Tuesday Thursday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,14,47,LANGUAGE CENTER,[11:30-12:45 DAR B103 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,17,47,LANGUAGE CENTER,[13:00-14:15 DAR B109 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,19,47,LANGUAGE CENTER,[14:30-15:45 DAR B113 Monday Wednesday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,20,47,LANGUAGE CENTER,[13:00-14:15 DAR B103 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,23,47,LANGUAGE CENTER,[09:30-10:20 DAR B102 Sunday Tuesday Thursday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,26,47,LANGUAGE CENTER,[10:00-11:15 AFS 127 Monday Wednesday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,29,47,LANGUAGE CENTER,[10:00-11:15 DAR B101 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,30,47,LANGUAGE CENTER,[11:30-12:45 DAR B109 Monday Wednesday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,31,47,LANGUAGE CENTER,[11:30-12:45 DAR B205 Monday Wednesday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,32,47,LANGUAGE CENTER,[10:00-11:15 DAR B113 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,33,47,LANGUAGE CENTER,[08:30-09:45 DAR B101 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,34,47,LANGUAGE CENTER,[10:30-11:20 DAR B101 Sunday Tuesday Thursday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,35,47,LANGUAGE CENTER,[10:30-11:20 DAR B109 Sunday Tuesday Thursday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,36,47,LANGUAGE CENTER,[09:30-10:20 DAR B110 Sunday Tuesday Thursday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,38,47,LANGUAGE CENTER,[14:30-15:45 DAR 132 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,40,47,LANGUAGE CENTER,[14:30-15:45 DAR B109 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,51,47,LANGUAGE CENTER,[08:30-09:45 DAR B110 Monday Wednesday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,52,47,LANGUAGE CENTER,[08:30-09:45 DAR 101 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,53,47,LANGUAGE CENTER,[08:30-09:45 DAR B113 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,57,47,LANGUAGE CENTER,[08:30-09:45 DAR 106 Monday Wednesday],,,1
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,58,47,LANGUAGE CENTER,[13:00-14:15 DAR B101 Monday Wednesday],,,0
+1,10610014,BEGINNING ENGLISH,0,1,Bachelor,1,Lecture,60,47,LANGUAGE CENTER,[11:30-12:20 DAR B110 Sunday Tuesday Thursday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,3,47,LANGUAGE CENTER,[08:30-09:20 DAR 132 Sunday Tuesday Thursday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,4,47,LANGUAGE CENTER,[08:30-09:20 DAR B210 Sunday Tuesday Thursday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,5,47,LANGUAGE CENTER,[11:30-12:20 DAR B101 Sunday Tuesday Thursday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,6,47,LANGUAGE CENTER,[11:30-12:45 DAR B113 Monday Wednesday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,10,47,LANGUAGE CENTER,[10:30-11:20 DAR B103 Sunday Tuesday Thursday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,11,47,LANGUAGE CENTER,[08:30-09:20 DAR B103 Sunday Tuesday Thursday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,12,47,LANGUAGE CENTER,[09:30-10:20 DAR B103 Sunday Tuesday Thursday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,15,47,LANGUAGE CENTER,[08:30-09:45 DAR 132 Monday Wednesday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,16,47,LANGUAGE CENTER,[08:30-09:20 DAR B101 Sunday Tuesday Thursday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,19,47,LANGUAGE CENTER,[10:00-11:15 AFS 123 Monday Wednesday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,20,47,LANGUAGE CENTER,[10:00-11:15 DAR 132 Monday Wednesday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,23,47,LANGUAGE CENTER,[09:30-10:20 DAR 132 Sunday Tuesday Thursday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,24,47,LANGUAGE CENTER,[11:30-12:20 DAR B103 Sunday Tuesday Thursday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,25,47,LANGUAGE CENTER,[14:30-15:45 DAR B110 Monday Wednesday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,26,47,LANGUAGE CENTER,[09:30-10:20 DAR B109 Sunday Tuesday Thursday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,27,47,LANGUAGE CENTER,[08:30-09:20 DAR B110 Sunday Tuesday Thursday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,29,47,LANGUAGE CENTER,[14:30-15:20 DAR B102 Sunday Tuesday Thursday],,,1
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,30,47,LANGUAGE CENTER,[10:30-11:20 DAR B102 Sunday Tuesday Thursday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,31,47,LANGUAGE CENTER,[11:30-12:45 DAR 111 Monday Wednesday],,,0
+1,10610025,INTERMEDIATE ENGLISH,2,1,Bachelor,1,Lecture,32,47,LANGUAGE CENTER,[13:30-14:20 DAR B101 Sunday Tuesday Thursday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,5,47,LANGUAGE CENTER,[13:30-14:25 DAR 108 Sunday Tuesday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,7,47,LANGUAGE CENTER,[14:30-15:25 DAR 111 Sunday Tuesday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,8,47,LANGUAGE CENTER,[14:30-15:25 DAR 107 Sunday Tuesday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,9,47,LANGUAGE CENTER,[09:30-10:25 DAR 111 Tuesday Thursday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,10,47,LANGUAGE CENTER,[14:30-15:25 DAR B205 Monday Wednesday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,11,47,LANGUAGE CENTER,[15:30-16:25 DAR 107 Tuesday Thursday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,13,47,LANGUAGE CENTER,[13:30-14:25 DAR 111 Sunday Tuesday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,14,47,LANGUAGE CENTER,[14:30-15:25 DAR 108 Monday Wednesday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,15,47,LANGUAGE CENTER,[14:30-15:25 DAR 108 Tuesday Thursday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,16,47,LANGUAGE CENTER,[10:30-11:25 DAR 106 Thursday][13:30-14:25 DAR 106 Tuesday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,17,47,LANGUAGE CENTER,[13:00-13:55 DAR 111 Monday Wednesday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,18,47,LANGUAGE CENTER,[08:30-09:25 DAR 111 Tuesday Wednesday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,19,47,LANGUAGE CENTER,[13:30-14:25 DAR 107 Tuesday][14:30-15:25 DAR 107 Monday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,20,47,LANGUAGE CENTER,[14:30-16:20 DAR 106 Tuesday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,21,47,LANGUAGE CENTER,[14:30-15:25 DAR 102 Monday Thursday],,,0
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,22,47,LANGUAGE CENTER,[09:30-10:25 DAR B205 Sunday Tuesday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,23,47,LANGUAGE CENTER,[13:30-14:25 DAR 108 Monday Wednesday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,24,47,LANGUAGE CENTER,[10:30-11:25 DAR 107 Sunday Thursday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,26,47,LANGUAGE CENTER,[12:30-13:25 DAR 108 Monday Wednesday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,27,47,LANGUAGE CENTER,[10:30-11:25 DAR 111 Thursday][11:30-12:25 DAR 111 Sunday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,28,47,LANGUAGE CENTER,[14:30-15:25 DAR 108 Sunday][14:30-15:25 DAR B205 Tuesday],,,1
+1,10610026,INTERMEDIATE ENGLISH LAB,1,1,Bachelor,2,Lab,29,47,LANGUAGE CENTER,[10:30-11:25 DAR 108 Sunday Tuesday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,4,47,LANGUAGE CENTER,[08:30-09:20 DAR B113 Sunday Tuesday Thursday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,5,47,LANGUAGE CENTER,[11:30-12:20 DAR B113 Sunday Tuesday Thursday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,6,47,LANGUAGE CENTER,[11:30-12:45 DAR B101 Monday Wednesday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,10,47,LANGUAGE CENTER,[08:30-09:45 DAR B103 Monday Wednesday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,17,47,LANGUAGE CENTER,[14:30-15:45 DAR B101 Monday Wednesday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,20,47,LANGUAGE CENTER,[10:00-11:15 DAR 107 Monday Wednesday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,21,47,LANGUAGE CENTER,[09:30-10:20 DAR B113 Sunday Tuesday Thursday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,22,47,LANGUAGE CENTER,[13:30-14:20 DAR B103 Sunday Tuesday Thursday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,23,47,LANGUAGE CENTER,[14:30-15:20 DAR B103 Sunday Tuesday Thursday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,24,47,LANGUAGE CENTER,[14:30-15:45 DAR B103 Monday Wednesday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,25,47,LANGUAGE CENTER,[08:30-09:45 DAR 107 Monday Wednesday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,26,47,LANGUAGE CENTER,[10:30-11:20 DAR B110 Sunday Tuesday Thursday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,28,47,LANGUAGE CENTER,[09:30-10:20 DAR B101 Sunday Tuesday Thursday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,29,47,LANGUAGE CENTER,[09:30-10:20 DAR B210 Sunday Tuesday Thursday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,30,47,LANGUAGE CENTER,[08:30-09:45 DAR B205 Monday Wednesday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,32,47,LANGUAGE CENTER,[13:00-14:15 DAR B113 Monday Wednesday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,33,47,LANGUAGE CENTER,[08:30-09:45 DAR B210 Monday Wednesday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,34,47,LANGUAGE CENTER,[10:30-11:20 DAR 132 Sunday Tuesday Thursday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,35,47,LANGUAGE CENTER,[13:00-14:15 DAR 107 Monday Wednesday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,36,47,LANGUAGE CENTER,[08:30-09:20 DAR B109 Sunday Tuesday Thursday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,37,47,LANGUAGE CENTER,[11:30-12:20 DAR 132 Sunday Tuesday Thursday],,,0
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,38,47,LANGUAGE CENTER,[14:30-15:45 DAR B102 Monday Wednesday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,39,47,LANGUAGE CENTER,[13:30-14:20 DAR 132 Sunday Tuesday Thursday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,40,47,LANGUAGE CENTER,[13:30-14:20 DAR 101 Tuesday][13:30-14:20 DAR 106 Sunday][13:30-14:20 DAR B114 Thursday],,,1
+1,10610035,ADVANCED ENGLISH,2,1,Bachelor,1,Lecture,41,47,LANGUAGE CENTER,[13:00-14:15 A&S 016 Monday Wednesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,6,47,LANGUAGE CENTER,[13:30-15:20 DAR 102 Sunday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,9,47,LANGUAGE CENTER,[13:30-14:25 DAR B205 Sunday Thursday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,10,47,LANGUAGE CENTER,[14:30-15:25 DAR 111 Monday Wednesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,17,47,LANGUAGE CENTER,[09:30-10:25 DAR 102 Monday Wednesday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,20,47,LANGUAGE CENTER,[13:30-14:25 DAR B205 Tuesday][14:30-15:25 DAR B205 Sunday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,21,47,LANGUAGE CENTER,[08:30-09:25 DAR 108 Sunday Tuesday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,22,47,LANGUAGE CENTER,[09:30-10:25 DAR 108 Sunday Tuesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,23,47,LANGUAGE CENTER,[10:30-11:25 DAR 102 Sunday Tuesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,24,47,LANGUAGE CENTER,[11:30-12:25 DAR 106 Sunday Tuesday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,25,47,LANGUAGE CENTER,[15:30-16:25 DAR 102 Sunday Tuesday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,26,47,LANGUAGE CENTER,[08:30-09:25 DAR 102 Monday Wednesday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,27,47,LANGUAGE CENTER,[09:30-10:25 DAR 111 Monday Wednesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,28,47,LANGUAGE CENTER,[10:30-11:25 DAR 106 Monday Wednesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,29,47,LANGUAGE CENTER,[11:30-12:25 DAR 106 Monday Wednesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,30,47,LANGUAGE CENTER,[14:30-15:25 DAR 106 Sunday Thursday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,31,47,LANGUAGE CENTER,[10:30-11:25 DAR 108 Monday Wednesday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,32,47,LANGUAGE CENTER,[11:30-12:25 DAR 107 Sunday Tuesday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,33,47,LANGUAGE CENTER,[08:30-09:25 DAR 108 Monday Wednesday],,,0
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,34,47,LANGUAGE CENTER,[11:30-12:25 DAR 107 Monday Wednesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,35,47,LANGUAGE CENTER,[13:30-14:25 DAR B205 Monday Wednesday],,,1
+1,10610036,ADVANCED ENGLISH LAB,1,1,Bachelor,2,Lab,36,47,LANGUAGE CENTER,[10:30-11:25 DAR 106 Sunday Tuesday],,,0
+1,10610071,ENGLISH FOR NURSING I,1,1,Bachelor,2,Lab,1,47,LANGUAGE CENTER,[08:30-10:20 DAR 101 Sunday],,,0
+1,10610071,ENGLISH FOR NURSING I,1,1,Bachelor,2,Lab,2,47,LANGUAGE CENTER,[08:30-10:20 DAR 102 Sunday],,,0
+1,10610071,ENGLISH FOR NURSING I,1,1,Bachelor,2,Lab,3,47,LANGUAGE CENTER,[08:30-10:20 DAR 106 Sunday],,,1
+1,10610071,ENGLISH FOR NURSING I,1,1,Bachelor,2,Lab,8,47,LANGUAGE CENTER,[13:30-15:20 DAR 101 Sunday],,,1
+1,10610071,ENGLISH FOR NURSING I,1,1,Bachelor,2,Lab,10,47,LANGUAGE CENTER,[13:30-15:20 DAR B113 Sunday],,,1
+1,10610071,ENGLISH FOR NURSING I,1,1,Bachelor,2,Lab,11,47,LANGUAGE CENTER,[12:30-14:20 DAR 102 Monday],,,1
+1,10610071,ENGLISH FOR NURSING I,1,1,Bachelor,2,Lab,12,47,LANGUAGE CENTER,[14:30-16:20 DAR B110 Sunday],,,0
+1,10610072,ENGLISH FOR NURSING II,1,1,Bachelor,2,Lab,2,47,LANGUAGE CENTER,[14:30-16:20 DAR B110 Tuesday],,,1
+1,10610073,ENGLISH FOR NURSING III,1,1,Bachelor,2,Lab,2,47,LANGUAGE CENTER,[10:30-12:20 DAR 101 Tuesday],,,1
+1,10610081,MEDICAL ENGLISH I,1,1,Bachelor,2,Lab,1,47,LANGUAGE CENTER,[12:30-14:20 DAR 132 Wednesday],,,0
+1,10610081,MEDICAL ENGLISH I,1,1,Bachelor,2,Lab,4,47,LANGUAGE CENTER,[12:30-14:20 DAR 101 Monday],,,0
+1,10610081,MEDICAL ENGLISH I,1,1,Bachelor,2,Lab,6,47,LANGUAGE CENTER,[13:30-15:20 DAR B113 Tuesday],,,1
+1,10610081,MEDICAL ENGLISH I,1,1,Bachelor,2,Lab,9,47,LANGUAGE CENTER,[12:30-14:20 DAR 101 Wednesday],,,0
+1,10610083,MEDICAL ENGLISH III,1,1,Bachelor,2,Lab,1,47,LANGUAGE CENTER,[17:30-19:20  9999 Sunday],,,0
+1,10610084,MEDICAL ENGLISH IV,1,1,Bachelor,2,Lab,1,47,LANGUAGE CENTER,[10:30-12:20 DAR 102 Wednesday],,,1
+1,10610084,MEDICAL ENGLISH IV,1,1,Bachelor,2,Lab,2,47,LANGUAGE CENTER,[08:30-10:20 DAR 102 Tuesday],,,1
+1,10610084,MEDICAL ENGLISH IV,1,1,Bachelor,2,Lab,3,47,LANGUAGE CENTER,[12:30-14:20 DAR B113 Thursday],,,1
+1,10610086,MEDICAL ENGLISH VI,1,1,Bachelor,2,Lab,1,47,LANGUAGE CENTER,[17:30-19:20  9999 Thursday],,,0
+1,10610087,MEDICAL ENGLISH VII,1,1,Bachelor,2,Lab,1,47,LANGUAGE CENTER,[12:30-14:20 DAR B102 Monday],,,1
+1,10610087,MEDICAL ENGLISH VII,1,1,Bachelor,2,Lab,2,47,LANGUAGE CENTER,[12:30-14:20 DAR B110 Monday],,,0
+1,10610087,MEDICAL ENGLISH VII,1,1,Bachelor,2,Lab,3,47,LANGUAGE CENTER,[14:30-16:20 DAR B115 Monday],,,1
+1,10610087,MEDICAL ENGLISH VII,1,1,Bachelor,2,Lab,4,47,LANGUAGE CENTER,[14:30-16:20 DAR B114 Monday],,,0
+1,10610087,MEDICAL ENGLISH VII,1,1,Bachelor,2,Lab,5,47,LANGUAGE CENTER,[14:30-16:20 DAR B115 Wednesday],,,1
+1,10610087,MEDICAL ENGLISH VII,1,1,Bachelor,2,Lab,6,47,LANGUAGE CENTER,[14:30-16:20 DAR B114 Wednesday],,,1
+1,10610087,MEDICAL ENGLISH VII,1,1,Bachelor,2,Lab,7,47,LANGUAGE CENTER,[14:30-16:20 DAR B110 Thursday],,,1
+1,10610087,MEDICAL ENGLISH VII,1,1,Bachelor,2,Lab,8,47,LANGUAGE CENTER,[14:30-16:20 DAR B109 Thursday],,,0
+1,10610500,ENGLISH FOR ACADEMIC PURPOSES,3,3,Master,1,Lecture,1,47,LANGUAGE CENTER,[15:00-18:00 AFS 124 Monday],,,0
+1,10610500,ENGLISH FOR ACADEMIC PURPOSES,3,9,PHD,1,Lecture,2,47,LANGUAGE CENTER,[15:00-18:00 AFS 124 Monday],,,0
+1,10611750,ENGLISH FOR DENTAL TECHNOLOGY STUDENT,2,13,Diploma,1,Lecture,6,47,LANGUAGE CENTER,[10:30-11:20 DAR B102 Monday Wednesday],,,1
+1,10611750,ENGLISH FOR DENTAL TECHNOLOGY STUDENT,2,13,Diploma,1,Lecture,8,47,LANGUAGE CENTER,[11:30-12:20 DAR 101 Monday Wednesday],,,1
+1,10611750,ENGLISH FOR DENTAL TECHNOLOGY STUDENT,2,13,Diploma,1,Lecture,9,47,LANGUAGE CENTER,[09:30-10:20 DAR B109 Monday Wednesday],,,1
+1,10611750,ENGLISH FOR DENTAL TECHNOLOGY STUDENT,2,13,Diploma,1,Lecture,10,47,LANGUAGE CENTER,[09:30-10:20 DAR B102 Monday Wednesday],,,0
+1,10611750,ENGLISH FOR DENTAL TECHNOLOGY STUDENT,2,13,Diploma,1,Lecture,11,47,LANGUAGE CENTER,[10:30-11:20 DAR B103 Monday Wednesday],,,0
+1,10611750,ENGLISH FOR DENTAL TECHNOLOGY STUDENT,2,13,Diploma,1,Lecture,12,47,LANGUAGE CENTER,[10:30-11:20 DAR 101 Monday Wednesday],,,0
+1,10611750,ENGLISH FOR DENTAL TECHNOLOGY STUDENT,2,13,Diploma,1,Lecture,13,47,LANGUAGE CENTER,[10:30-11:20 DAR B109 Monday Wednesday],,,1
+1,10611800,ENGLISH FOR DENTAL TECHNOLOGY STUDENT LAB,1,13,Diploma,2,Lab,1,47,LANGUAGE CENTER,[17:30-19:20  Electronic Sunday],,,1
+1,10611800,ENGLISH FOR DENTAL TECHNOLOGY STUDENT LAB,1,13,Diploma,2,Lab,2,47,LANGUAGE CENTER,[17:30-19:20  Electronic Tuesday],,,1
+1,10611800,ENGLISH FOR DENTAL TECHNOLOGY STUDENT LAB,1,13,Diploma,2,Lab,3,47,LANGUAGE CENTER,[19:30-21:20  Electronic Sunday],,,0
+1,10611800,ENGLISH FOR DENTAL TECHNOLOGY STUDENT LAB,1,13,Diploma,2,Lab,4,47,LANGUAGE CENTER,[17:30-19:20  Electronic Wednesday],,,1
+1,10611800,ENGLISH FOR DENTAL TECHNOLOGY STUDENT LAB,1,13,Diploma,2,Lab,5,47,LANGUAGE CENTER,[17:30-19:20  Electronic Wednesday],,,1
+1,10611800,ENGLISH FOR DENTAL TECHNOLOGY STUDENT LAB,1,13,Diploma,2,Lab,6,47,LANGUAGE CENTER,[17:30-19:20  Electronic Thursday],,,1
+1,10611800,ENGLISH FOR DENTAL TECHNOLOGY STUDENT LAB,1,13,Diploma,2,Lab,7,47,LANGUAGE CENTER,[19:30-21:20  Electronic Thursday],,,1
+1,100111001,BASIC PHYSICS,2,1,Bachelor,1,Lecture,11,43,Physics Department,[13:30-14:20 A&S 010 Monday Wednesday],,,1
+1,100111001,BASIC PHYSICS,2,1,Bachelor,1,Lecture,12,43,Physics Department,[13:30-14:20 A&S 014 Monday Wednesday],,,0
+1,100111001,BASIC PHYSICS,2,1,Bachelor,1,Lecture,18,43,Physics Department,[08:30-09:20 A&S 013 Sunday Tuesday],,,0
+1,100111001,BASIC PHYSICS,2,1,Bachelor,1,Lecture,20,43,Physics Department,[13:30-14:20 A&S 005 Monday Wednesday],,,1
+1,100111001,BASIC PHYSICS,2,1,Bachelor,1,Lecture,22,43,Physics Department,[08:30-09:20 A&S 020 Sunday Tuesday],,,0
+1,100111002,PRE-PHYSICS,2,1,Bachelor,1,Lecture,2,43,Physics Department,[08:30-09:20 AFS 107 Sunday Tuesday],,,1
+1,100111002,PRE-PHYSICS,2,1,Bachelor,1,Lecture,5,43,Physics Department,[10:30-11:20 AFS 225 Sunday Tuesday],,,0
+1,100111002,PRE-PHYSICS,2,1,Bachelor,1,Lecture,6,43,Physics Department,[13:30-14:20 A&S 004 Monday Wednesday],,,1
+1,100111002,PRE-PHYSICS,2,1,Bachelor,1,Lecture,20,43,Physics Department,[14:30-15:20  9999 Friday][15:30-16:20  9999 Friday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,1,Lecture,1,43,Physics Department,[10:00-11:15 A&S 014 Monday Wednesday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,1,Lecture,2,43,Physics Department,[13:00-14:15 A&S 229 Monday Wednesday],,,1
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,1,Lecture,3,43,Physics Department,[09:30-10:20 A&S 014 Sunday Tuesday Thursday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,1,Lecture,4,43,Physics Department,[08:30-09:20 A&S 231 Sunday Tuesday Thursday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,1,Lecture,5,43,Physics Department,[13:30-14:20 A&S 020 Sunday Tuesday Thursday],,,1
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,1,Lecture,6,43,Physics Department,[10:30-11:20 A&S 012 Sunday Tuesday Thursday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,1,Lecture,7,43,Physics Department,[10:30-11:20 A&S 229 Sunday Tuesday Thursday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,1,Lecture,9,43,Physics Department,[08:30-09:45 A&S 020 Monday Wednesday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,4,Tutorial,1,43,Physics Department,[14:30-15:20 A&S 005 Tuesday],,,1
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,4,Tutorial,2,43,Physics Department,[10:30-11:20 PHC 104 Sunday],,,1
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,4,Tutorial,3,43,Physics Department,[10:30-11:20 A&S 013 Monday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,4,Tutorial,5,43,Physics Department,[09:30-10:20 A&S B113 Monday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,4,Tutorial,6,43,Physics Department,[08:30-09:20 AFS 221 Monday],,,1
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,4,Tutorial,7,43,Physics Department,[10:30-11:20 A&S 013 Wednesday],,,0
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,4,Tutorial,9,43,Physics Department,[10:30-11:20 A&S B114 Monday],,,1
+1,100111010,GENERAL PHYSICS I,3,1,Bachelor,4,Tutorial,10,43,Physics Department,[11:30-12:20 A&S B113 Sunday],,,1
+1,100111021,GENERAL PHYSICS II,3,1,Bachelor,1,Lecture,1,43,Physics Department,[14:30-15:45 A&S 231 Monday Wednesday],,,1
+1,100111021,GENERAL PHYSICS II,3,1,Bachelor,4,Tutorial,1,43,Physics Department,[13:00-13:50 A&S 015 Thursday],,,0
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,1,43,Physics Department,[13:30-15:20 A&S B106 Thursday],,,1
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,2,43,Physics Department,[10:30-12:20 A&S B102 Thursday],,,0
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,3,43,Physics Department,[10:30-12:20 A&S B110 Tuesday],,,0
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,4,43,Physics Department,[12:30-14:20 A&S B106 Monday],,,1
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,5,43,Physics Department,[12:30-14:20 A&S B102 Monday],,,0
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,6,43,Physics Department,[13:30-15:20 A&S B110 Monday],,,1
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,7,43,Physics Department,[13:30-15:20 A&S B110 Tuesday],,,0
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,8,43,Physics Department,[14:30-16:20 A&S B102 Tuesday],,,1
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,9,43,Physics Department,[13:30-15:20 A&S B106 Sunday],,,0
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,10,43,Physics Department,[13:30-15:20 A&S B106 Wednesday],,,1
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,11,43,Physics Department,[10:30-12:20 A&S B102 Wednesday],,,1
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,12,43,Physics Department,[08:30-10:20 A&S B110 Wednesday],,,0
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,13,43,Physics Department,[08:30-10:20 A&S B106 Wednesday],,,0
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,14,43,Physics Department,[10:30-12:20 A&S B106 Wednesday],,,1
+1,100111051,GENERAL PHYSICS LAB I,1,1,Bachelor,2,Lab,15,43,Physics Department,[13:30-15:20 A&S B102 Sunday],,,1
+1,100111140,MEDICAL PHYSICS,3,1,Bachelor,1,Lecture,1,43,Physics Department,[10:30-11:20 A&S B113 Sunday Tuesday Thursday],,,0
+1,100111140,MEDICAL PHYSICS,3,1,Bachelor,1,Lecture,2,43,Physics Department,[11:30-12:20 A&S 018 Sunday Tuesday Thursday],,,0
+1,100111140,MEDICAL PHYSICS,3,1,Bachelor,1,Lecture,3,43,Physics Department,[09:30-10:20 A&S 010 Sunday Tuesday Thursday],,,0
+1,100111140,MEDICAL PHYSICS,3,1,Bachelor,1,Lecture,4,43,Physics Department,[10:30-11:20 A&S 010 Sunday Tuesday Thursday],,,0
+1,100111611,PHYSICS FOR MEDICAL STUDENTS,3,1,Bachelor,1,Lecture,1,43,Physics Department,[13:00-14:15 A&S 012 Monday Wednesday],,,1
+1,100111611,PHYSICS FOR MEDICAL STUDENTS,3,1,Bachelor,4,Tutorial,2,43,Physics Department,[11:30-12:20 DAR B114 Tuesday],,,0
+1,100111620,PHYSICS FOR MEDICAL SCIENCES,2,1,Bachelor,1,Lecture,2,43,Physics Department,[10:30-11:20 A&S 238 Sunday Tuesday],,,0
+1,100111620,PHYSICS FOR MEDICAL SCIENCES,2,1,Bachelor,1,Lecture,4,43,Physics Department,[08:30-09:20 A&S 015 Sunday Tuesday],,,1
+1,100111620,PHYSICS FOR MEDICAL SCIENCES,2,1,Bachelor,4,Tutorial,2,43,Physics Department,[09:30-10:20 A&S 012 Tuesday],,,0
+1,100111620,PHYSICS FOR MEDICAL SCIENCES,2,1,Bachelor,4,Tutorial,6,43,Physics Department,[10:00-10:50 A&S 016 Sunday],,,1
+1,100111650,PHYSICS LAB FOR MEDICAL STUDENTS,1,1,Bachelor,2,Lab,1,43,Physics Department,[10:30-12:20 A&S B106 Sunday],,,0
+1,100111650,PHYSICS LAB FOR MEDICAL STUDENTS,1,1,Bachelor,2,Lab,4,43,Physics Department,[10:30-12:20 A&S B106 Thursday],,,0
+1,100111650,PHYSICS LAB FOR MEDICAL STUDENTS,1,1,Bachelor,2,Lab,7,43,Physics Department,[08:30-10:20 A&S B106 Sunday],,,1
+1,100111650,PHYSICS LAB FOR MEDICAL STUDENTS,1,1,Bachelor,2,Lab,13,43,Physics Department,[08:30-10:20 A&S B110 Sunday],,,0
+1,100111650,PHYSICS LAB FOR MEDICAL STUDENTS,1,1,Bachelor,2,Lab,14,43,Physics Department,[10:30-12:20 A&S B110 Thursday],,,0
+1,100113020,MATHEMATICAL PHYSICS II,3,1,Bachelor,1,Lecture,1,43,Physics Department,[08:30-09:45 A&S B101 Monday Wednesday],,,0
+1,100113110,CLASSICAL MECHANICS I,3,1,Bachelor,1,Lecture,1,43,Physics Department,[10:00-11:15 A&S 016 Monday Wednesday],,,0
+1,100113320,ELECTRICITY AND MAGNETISM I,3,1,Bachelor,1,Lecture,1,43,Physics Department,[09:30-10:20 A&S B101 Sunday Tuesday Thursday],,,0
+1,100113510,QUANTUM MECHANICS I,3,1,Bachelor,1,Lecture,1,43,Physics Department,[11:30-12:45 A&S 006 Monday Wednesday],,,1
+1,100113531,LASER DESIGN AND TECHNOLOGY,3,1,Bachelor,1,Lecture,1,43,Physics Department,[10:30-11:20 A&S B101 Sunday Tuesday Thursday],,,1
+1,100113650,MEDICAL PHYSICS,3,1,Bachelor,1,Lecture,1,43,Physics Department,[08:30-09:20 A&S 005 Sunday Tuesday Thursday],,,0
+1,100113751,MODERN PHYSICS LAB,1,1,Bachelor,2,Lab,1,43,Physics Department,[11:30-14:20 A&S B101 Monday],,,1
+1,100114380,SEMICONDUTOR PHYSICS,3,1,Bachelor,1,Lecture,1,43,Physics Department,[11:30-12:20 A&S B101 Sunday Tuesday Thursday],,,1
+1,100114752,ADVANCED PHYSICS LAB,2,1,Bachelor,1,Lecture,1,43,Physics Department,[14:30-15:20 A&S B101 Wednesday],,,1
+1,100114752,ADVANCED PHYSICS LAB,2,1,Bachelor,2,Lab,1,43,Physics Department,[11:30-14:20 A&S B101 Wednesday],,,1
+1,100114990,SEMINAR,1,1,Bachelor,1,Lecture,1,43,Physics Department,[15:30-16:20 A&S 007 Sunday],,,1
+1,100114990,SEMINAR,1,1,Bachelor,1,Lecture,2,43,Physics Department,[15:30-16:20 A&S 012 Sunday],,,0
+1,100114990,SEMINAR,1,1,Bachelor,1,Lecture,3,43,Physics Department,[15:30-16:20 A&S 013 Sunday],,,1
+1,100114990,SEMINAR,1,1,Bachelor,1,Lecture,4,43,Physics Department,[15:30-16:20 A&S 015 Sunday],,,1
+1,100114990,SEMINAR,1,1,Bachelor,1,Lecture,5,43,Physics Department,[15:30-16:20 A&S 020 Sunday],,,1
+1,100411001,BASIC MATHEMATICS,2,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[08:30-09:20 A&S B113 Sunday Tuesday],,,1
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[08:30-09:20 A&S B114 Sunday Tuesday Thursday],,,0
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[08:30-09:20 AFS 202 Sunday Tuesday Thursday],,,1
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,3,73,Mathematics and Statistics Department,[09:30-10:20 AFS 025 Sunday Tuesday Thursday],,,1
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,4,73,Mathematics and Statistics Department,[10:30-11:20 A&S 014 Sunday Tuesday Thursday],,,1
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,5,73,Mathematics and Statistics Department,[13:30-14:20 A&S 007 Sunday Tuesday Thursday],,,1
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,6,73,Mathematics and Statistics Department,[11:30-12:20 A&S 020 Sunday Tuesday Thursday],,,1
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,7,73,Mathematics and Statistics Department,[11:30-12:20 A&S 013 Sunday Tuesday Thursday],,,1
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,8,73,Mathematics and Statistics Department,[11:30-12:45 AFS 221 Monday Wednesday],,,0
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,9,73,Mathematics and Statistics Department,[11:30-12:45 A&S 013 Monday Wednesday],,,0
+1,100411010,CALCULUS I,3,1,Bachelor,1,Lecture,12,73,Mathematics and Statistics Department,[10:00-11:15 A&S 009 Monday Wednesday],,,1
+1,100411020,CALCULUS II,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[14:30-15:20 A&S 007 Sunday Tuesday Thursday],,,1
+1,100411050,BUSINESS MATHEMATICS,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[11:30-12:20 AFS 103 Sunday Tuesday Thursday],,,1
+1,100411050,BUSINESS MATHEMATICS,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[10:30-11:20 AFS 103 Sunday Tuesday Thursday],,,1
+1,100411050,BUSINESS MATHEMATICS,3,1,Bachelor,1,Lecture,3,73,Mathematics and Statistics Department,[09:30-10:20 A&S 005 Sunday Tuesday Thursday],,,1
+1,100411610,MATHEMATICS FOR MEDICAL STUDENTS,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[10:00-11:15 A&S 007 Monday Wednesday],,,0
+1,100411800,ELEMENTARY PROBABILITY & STATISTIC,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[10:00-11:15 A&S 020 Monday Wednesday],,,0
+1,100411810,BUSINESS STATISTICS,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[10:00-11:15 PHC 203 Monday Wednesday],,,1
+1,100411810,BUSINESS STATISTICS,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[08:30-09:20 LAW 101 Sunday Tuesday Thursday],,,0
+1,100411810,BUSINESS STATISTICS,3,1,Bachelor,1,Lecture,3,73,Mathematics and Statistics Department,[11:30-12:45 A&S 229 Monday Wednesday],,,1
+1,100412010,CALCULUS III,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[08:30-09:20 A&S 229 Sunday Tuesday Thursday],,,0
+1,100412021,ENGINEERING MATHEMATICS I,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[13:00-14:15 A&S 013 Monday Wednesday],,,0
+1,100412021,ENGINEERING MATHEMATICS I,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[08:30-09:20 A&S 012 Sunday Tuesday Thursday],,,1
+1,100412021,ENGINEERING MATHEMATICS I,3,1,Bachelor,1,Lecture,3,73,Mathematics and Statistics Department,[10:00-11:15 A&S 012 Monday Wednesday],,,1
+1,100412021,ENGINEERING MATHEMATICS I,3,1,Bachelor,1,Lecture,4,73,Mathematics and Statistics Department,[11:30-12:20 AFS 225 Sunday Tuesday Thursday],,,1
+1,100412040,MATHEMATICS FOR INFORMATION TECHNOLOGY,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[10:30-11:20 A&S B114 Sunday Tuesday Thursday],,,0
+1,100412040,MATHEMATICS FOR INFORMATION TECHNOLOGY,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[11:30-12:45 A&S 010 Monday Wednesday],,,0
+1,100412050,MATHEMATICS FOR CHEMISTRY,3,1,Bachelor,1,Lecture,3,73,Mathematics and Statistics Department,[10:00-11:15 A&S 012 Monday Wednesday],,,1
+1,100412050,MATHEMATICS FOR CHEMISTRY,3,1,Bachelor,1,Lecture,4,73,Mathematics and Statistics Department,[11:30-12:20 AFS 225 Sunday Tuesday Thursday],,,1
+1,100412111,FUNDAMENTALS OF MATHEMATICS I,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[09:30-10:20 A&S B113 Sunday Tuesday Thursday],,,1
+1,100412410,LINEAR ALGEBRA I,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[08:30-09:45 A&S 240 Monday Wednesday],,,0
+1,100412810,BIOSTATISTICS,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[08:30-09:20 A&S 010 Sunday Tuesday Thursday],,,1
+1,100412810,BIOSTATISTICS,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[09:30-10:20 A&S 007 Sunday Tuesday Thursday],,,0
+1,100412810,BIOSTATISTICS,3,1,Bachelor,1,Lecture,3,73,Mathematics and Statistics Department,[08:30-09:45 A&S 007 Monday Wednesday],,,1
+1,100412810,BIOSTATISTICS,3,1,Bachelor,1,Lecture,4,73,Mathematics and Statistics Department,[10:00-11:15 AFS 221 Monday Wednesday],,,1
+1,100412810,BIOSTATISTICS,3,1,Bachelor,1,Lecture,5,73,Mathematics and Statistics Department,[10:00-11:15 AMS-B B102 Monday Wednesday],,,0
+1,100412811,BIOSTATISTICS FOR DENTAL STUDENTS,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[13:00-14:15 A&S 238 Monday Wednesday],,,0
+1,100412811,BIOSTATISTICS FOR DENTAL STUDENTS,3,1,Bachelor,1,Lecture,4,73,Mathematics and Statistics Department,[13:00-14:15 A&S 007 Monday Wednesday],,,1
+1,100412811,BIOSTATISTICS FOR DENTAL STUDENTS,3,1,Bachelor,1,Lecture,5,73,Mathematics and Statistics Department,[13:00-14:15 A&S 020 Monday Wednesday],,,1
+1,100413310,NUMERICAL ANALYSIS I,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[11:30-12:20 LAW 101 Sunday Tuesday Thursday],,,0
+1,100413310,NUMERICAL ANALYSIS I,3,1,Bachelor,1,Lecture,3,73,Mathematics and Statistics Department,[10:00-11:15 LAW 101 Monday Wednesday],,,0
+1,100413430,NUMBER THEORY,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[09:30-10:20 A&S 229 Sunday Tuesday Thursday],,,0
+1,100413711,APPLIED MATHEMATICS,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[11:30-12:45 A&S 240 Monday Wednesday],,,1
+1,100413750,DISCRETE MATHEMATICS,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[11:30-12:20 A&S 007 Sunday Tuesday Thursday],,,0
+1,100413750,DISCRETE MATHEMATICS,3,1,Bachelor,1,Lecture,3,73,Mathematics and Statistics Department,[13:30-14:20 A&S 013 Sunday Tuesday Thursday],,,0
+1,100413750,DISCRETE MATHEMATICS,3,1,Bachelor,1,Lecture,4,73,Mathematics and Statistics Department,[10:30-11:20 A&S 007 Sunday Tuesday Thursday],,,1
+1,100413850,REGRESSION ANALYSIS,3,1,Bachelor,1,Lecture,1,73,Mathematics and Statistics Department,[10:30-11:20 A&S 240 Sunday Tuesday Thursday],,,1
+1,100414840,DESIGN OF EXPERIMENTS,3,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[08:30-09:45 A&S 006 Monday Wednesday],,,0
+1,100414890,BIOSTATISTICS FOR NURSING,2,1,Bachelor,1,Lecture,2,73,Mathematics and Statistics Department,[08:30-09:20 A&S 016 Monday Wednesday],,,0
+1,100414890,BIOSTATISTICS FOR NURSING,2,1,Bachelor,1,Lecture,7,73,Mathematics and Statistics Department,[08:30-09:20 SH 045 Sunday][09:30-10:20 SH 045 Sunday],,,0
+1,230111050,ENGINEERING WORKSHOP I,1,1,Bachelor,2,Lab,2,1,Electrical Engineering Department,[08:30-11:20 EIT 1500013 Tuesday],,,0
+1,230111050,ENGINEERING WORKSHOP I,1,1,Bachelor,2,Lab,3,1,Electrical Engineering Department,[08:30-11:20 EIT 1500013 Thursday],,,1
+1,230111050,ENGINEERING WORKSHOP I,1,1,Bachelor,2,Lab,5,1,Electrical Engineering Department,[08:30-11:20 EIT 1500013 Monday],,,0
+1,230111050,ENGINEERING WORKSHOP I,1,1,Bachelor,2,Lab,7,1,Electrical Engineering Department,[13:00-15:50 EIT 1500013 Monday],,,1
+1,230111050,ENGINEERING WORKSHOP I,1,1,Bachelor,2,Lab,8,1,Electrical Engineering Department,[13:00-15:50 EIT 1500013 Wednesday],,,0
+1,230111050,ENGINEERING WORKSHOP I,1,1,Bachelor,2,Lab,9,1,Electrical Engineering Department,[13:30-16:20 EIT 1500013 Tuesday],,,1
+1,230111050,ENGINEERING WORKSHOP I,1,1,Bachelor,2,Lab,10,1,Electrical Engineering Department,[13:30-16:20 EIT 1500013 Thursday],,,1
+1,230112050,ENGINEERING WORKSHOP II,1,1,Bachelor,2,Lab,2,1,Electrical Engineering Department,[08:30-11:20 EIT 1500014 Tuesday],,,0
+1,230112050,ENGINEERING WORKSHOP II,1,1,Bachelor,2,Lab,3,1,Electrical Engineering Department,[08:30-11:20 EIT 1500014 Thursday],,,1
+1,230112050,ENGINEERING WORKSHOP II,1,1,Bachelor,2,Lab,5,1,Electrical Engineering Department,[13:30-16:20 EIT 1500014 Tuesday],,,1
+1,230112050,ENGINEERING WORKSHOP II,1,1,Bachelor,2,Lab,6,1,Electrical Engineering Department,[13:30-16:20 EIT 1500014 Thursday],,,0
+1,230112050,ENGINEERING WORKSHOP II,1,1,Bachelor,2,Lab,8,1,Electrical Engineering Department,[13:00-15:50 EIT 1500014 Wednesday],,,0
+1,230112100,FUNDAMENTALS OF ELECTRICITY & ELECTRONICS,2,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[08:30-09:20 A&S B113 Wednesday][09:30-10:20 A&S B113 Wednesday],,,0
+1,230112100,FUNDAMENTALS OF ELECTRICITY & ELECTRONICS,2,1,Bachelor,1,Lecture,3,1,Electrical Engineering Department,[10:30-11:20 ENG 202 Monday][11:30-12:20 ENG 202 Monday],,,0
+1,230112120,ELECTRICAL CIRCUITS I,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[08:30-09:45 ENG 308 Monday Wednesday],,,1
+1,230112120,ELECTRICAL CIRCUITS I,3,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[10:00-11:15 EIT 101 Monday Wednesday],,,1
+1,230112120,ELECTRICAL CIRCUITS I,3,1,Bachelor,1,Lecture,3,1,Electrical Engineering Department,[08:30-09:20 ENG 311 Sunday Tuesday Thursday],,,0
+1,230112120,ELECTRICAL CIRCUITS I,3,1,Bachelor,1,Lecture,4,1,Electrical Engineering Department,[13:00-14:15 ENG 308 Monday Wednesday],,,1
+1,230112210,ELECTRICAL CIRCUITS II,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[08:30-09:45 EIT 105 Monday Wednesday],,,1
+1,230112210,ELECTRICAL CIRCUITS II,3,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[11:30-12:45 EIT 105 Monday Wednesday],,,0
+1,230112240,SIGNALS AND SYSTEMS,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[13:30-14:20 EIT 105 Sunday Tuesday Thursday],,,1
+1,230112240,SIGNALS AND SYSTEMS,3,1,Bachelor,1,Lecture,4,1,Electrical Engineering Department,[13:00-14:15 ENG 311 Monday Wednesday],,,0
+1,230112250,ELECTROMAGNETIC THEORY I,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[11:30-12:45 ENG 310 Monday Wednesday],,,0
+1,230112270,INTRODUCTION TO MATLAB LAB,1,1,Bachelor,2,Lab,2,1,Electrical Engineering Department,[13:00-15:50 ENG 203 Monday],,,0
+1,230113110,ELECTRONICS I,3,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[11:30-12:45 EIT 210 Monday Wednesday],,,1
+1,230113110,ELECTRONICS I,3,1,Bachelor,1,Lecture,4,1,Electrical Engineering Department,[13:30-14:20 EIT 210 Sunday Tuesday Thursday],,,0
+1,230113110,ELECTRONICS I,3,1,Bachelor,1,Lecture,5,1,Electrical Engineering Department,[11:30-12:20 ENG 212 Sunday Tuesday Thursday],,,0
+1,230113120,ELECTRICAL CIRCUITS LAB,1,1,Bachelor,2,Lab,1,1,Electrical Engineering Department,[13:30-16:20 EIT 202 Tuesday],,,1
+1,230113120,ELECTRICAL CIRCUITS LAB,1,1,Bachelor,2,Lab,2,1,Electrical Engineering Department,[13:30-16:20 EIT 202 Thursday],,,0
+1,230113120,ELECTRICAL CIRCUITS LAB,1,1,Bachelor,2,Lab,3,1,Electrical Engineering Department,[13:00-15:50 EIT 202 Monday],,,0
+1,230113120,ELECTRICAL CIRCUITS LAB,1,1,Bachelor,2,Lab,4,1,Electrical Engineering Department,[08:30-11:20 EIT 202 Sunday],,,1
+1,230113120,ELECTRICAL CIRCUITS LAB,1,1,Bachelor,2,Lab,5,1,Electrical Engineering Department,[08:30-11:20 EIT 202 Tuesday],,,1
+1,230113130,ELECTRICAL INSTALLATIONS AND SAFETY,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[09:30-10:20 ENG 212 Sunday Tuesday Thursday],,,0
+1,230113140,PROBABILITY AND RANDOM VARIABLES,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[10:00-11:15 EIT 105 Monday Wednesday],,,1
+1,230113140,PROBABILITY AND RANDOM VARIABLES,3,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[13:30-14:20 ENG 311 Sunday Tuesday Thursday],,,1
+1,230113220,ELECTRONICS LAB,1,1,Bachelor,2,Lab,1,1,Electrical Engineering Department,[08:30-11:20 EIT 201 Monday],,,1
+1,230113220,ELECTRONICS LAB,1,1,Bachelor,2,Lab,3,1,Electrical Engineering Department,[08:30-11:20 EIT 201 Tuesday],,,1
+1,230113250,ELECTRONICS II,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[11:30-12:20 EIT 105 Sunday Tuesday Thursday],,,1
+1,230113440,MATERIAL SCIENCE AND ENGINEERING,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[08:30-09:20 ENG 308 Sunday Tuesday Thursday],,,0
+1,230114110,POWER SYSTEMS I,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[09:30-10:20 ENG 308 Sunday Tuesday Thursday],,,0
+1,230114110,POWER SYSTEMS I,3,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[10:00-11:15 ENG 308 Monday Wednesday],,,1
+1,230114120,RENEWABLE ENERGY SYSTEMS I,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[10:30-11:20 ENG 308 Sunday Tuesday Thursday],,,0
+1,230114130,POWER ELECTRONICS,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[09:30-10:20 ENG 311 Sunday Tuesday Thursday],,,1
+1,230114130,POWER ELECTRONICS,3,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[10:00-11:15 ENG 311 Monday Wednesday],,,1
+1,230114140,ELECTRICAL MACHINES II,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[11:30-12:20 ENG 311 Sunday Tuesday Thursday],,,1
+1,230114140,ELECTRICAL MACHINES II,3,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[11:30-12:45 ENG 311 Monday Wednesday],,,1
+1,230114150,CONTROL SYSTEMS LAB,1,1,Bachelor,2,Lab,1,1,Electrical Engineering Department,[13:30-16:20 ENG 203 Sunday],,,0
+1,230114150,CONTROL SYSTEMS LAB,1,1,Bachelor,2,Lab,2,1,Electrical Engineering Department,[13:30-16:20 ENG 203 Tuesday],,,1
+1,230114150,CONTROL SYSTEMS LAB,1,1,Bachelor,2,Lab,3,1,Electrical Engineering Department,[13:00-15:50 ENG 203 Wednesday],,,1
+1,230114170,PRINCIPLES OF TELECOMUNIACTION,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[13:00-14:15 EIT 105 Monday Wednesday],,,1
+1,230114230,ELECTRICAL MACHINES LAB,1,1,Bachelor,2,Lab,1,1,Electrical Engineering Department,[08:30-11:20 ENG 201 Wednesday],,,0
+1,230114260,PRINCIPLES OF TELECOMUNIACTION LAB,1,1,Bachelor,2,Lab,1,1,Electrical Engineering Department,[14:30-17:20 EIT 110 Sunday],,,0
+1,230115110,COMPUTER APPLICATIONS FOR ELECTRICAL POWER AND RENEWABLE ENERGY LAB,1,1,Bachelor,2,Lab,1,1,Electrical Engineering Department,[08:30-11:20 ENG 203 Monday],,,1
+1,230115110,COMPUTER APPLICATIONS FOR ELECTRICAL POWER AND RENEWABLE ENERGY LAB,1,1,Bachelor,2,Lab,2,1,Electrical Engineering Department,[08:30-11:20 ENG 203 Wednesday],,,0
+1,230115130,HIGH VOLTAGE ENGINEERING,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[14:30-15:45 ENG 308 Monday Wednesday],,,0
+1,230115150,SMART GRIDS AND DISTRIBUTED GENERATION,3,1,Bachelor,1,Lecture,2,1,Electrical Engineering Department,[10:30-11:20 ENG 311 Sunday Tuesday Thursday],,,0
+1,230115160,RENEWABLE ENERGIES LAB,1,1,Bachelor,2,Lab,1,1,Electrical Engineering Department,[13:30-16:20 ENG 202 Sunday],,,0
+1,230115160,RENEWABLE ENERGIES LAB,1,1,Bachelor,2,Lab,2,1,Electrical Engineering Department,[13:30-16:20 ENG 202 Tuesday],,,1
+1,230115160,RENEWABLE ENERGIES LAB,1,1,Bachelor,2,Lab,3,1,Electrical Engineering Department,[13:30-16:20 ENG 202 Thursday],,,0
+1,230115210,POWER SYSTEMS LAB,1,1,Bachelor,2,Lab,1,1,Electrical Engineering Department,[13:30-16:20 ENG 205 Thursday],,,0
+1,230115210,POWER SYSTEMS LAB,1,1,Bachelor,2,Lab,2,1,Electrical Engineering Department,[13:00-15:50 ENG 205 Monday],,,0
+1,230115460,HYBRID ELECTRIC POWER SYSTEMS,3,1,Bachelor,1,Lecture,1,1,Electrical Engineering Department,[11:30-12:45 ENG 308 Monday Wednesday],,,0
+1,230211210,DIGITAL LOGIC DESIGN,3,1,Bachelor,1,Lecture,1,2,CSE Department,[10:30-11:20 AFS 123 Sunday Tuesday Thursday],,,0
+1,230211210,DIGITAL LOGIC DESIGN,3,1,Bachelor,1,Lecture,2,2,CSE Department,[11:30-12:20 AFS 123 Sunday Tuesday Thursday],,,0
+1,230211210,DIGITAL LOGIC DESIGN,3,1,Bachelor,1,Lecture,4,2,CSE Department,[08:30-09:45 EIT 208 Monday Wednesday],,,0
+1,230212110,DIGITAL LOGIC DESIGN LAB,1,1,Bachelor,2,Lab,1,2,CSE Department,[08:30-11:20 EIT 215 Wednesday],,,1
+1,230212110,DIGITAL LOGIC DESIGN LAB,1,1,Bachelor,2,Lab,2,2,CSE Department,[13:30-16:20 EIT 215 Sunday],,,0
+1,230212110,DIGITAL LOGIC DESIGN LAB,1,1,Bachelor,2,Lab,3,2,CSE Department,[13:30-16:20 EIT 215 Tuesday],,,0
+1,230212110,DIGITAL LOGIC DESIGN LAB,1,1,Bachelor,2,Lab,4,2,CSE Department,[08:30-11:20 EIT 215 Monday],,,0
+1,230212110,DIGITAL LOGIC DESIGN LAB,1,1,Bachelor,2,Lab,5,2,CSE Department,[13:30-16:20 EIT 215 Thursday],,,1
+1,230212300,TECHNICAL WRITING,1,1,Bachelor,1,Lecture,1,2,CSE Department,[13:30-14:20 EIT 208 Sunday],,,1
+1,230212300,TECHNICAL WRITING,1,1,Bachelor,1,Lecture,2,2,CSE Department,[13:30-14:20 EIT 208 Tuesday],,,0
+1,230213120,COMPUTER ORGANIZATION,3,1,Bachelor,1,Lecture,2,2,CSE Department,[11:30-12:20 EIT 008 Sunday Tuesday Thursday],,,0
+1,230213121,COMPUTER ORGANIZATION,3,1,Bachelor,1,Lecture,1,2,CSE Department,[14:30-15:45 EIT 008 Monday Wednesday],,,1
+1,230213150,ALGORITHMS ANALYSIS AND DESIGN,3,1,Bachelor,1,Lecture,1,2,CSE Department,[13:00-14:15 EIT 208 Monday Wednesday],,,0
+1,230213150,ALGORITHMS ANALYSIS AND DESIGN,3,1,Bachelor,1,Lecture,2,2,CSE Department,[14:30-15:45 EIT 210 Monday Wednesday],,,1
+1,230213210,DATA & COMPUTER NETWORKS,3,1,Bachelor,1,Lecture,1,2,CSE Department,[08:30-09:45 EIT 101 Monday Wednesday],,,0
+1,230213210,DATA & COMPUTER NETWORKS,3,1,Bachelor,1,Lecture,2,2,CSE Department,[10:00-11:15 EIT 210 Monday Wednesday],,,1
+1,230213220,ADVANCED DIGITAL SYSTEMS DESIGN,3,1,Bachelor,1,Lecture,1,2,CSE Department,[10:30-11:20 EIT 210 Sunday Tuesday Thursday],,,0
+1,230213220,ADVANCED DIGITAL SYSTEMS DESIGN,3,1,Bachelor,1,Lecture,2,2,CSE Department,[09:30-10:20 EIT 008 Sunday Tuesday Thursday],,,1
+1,230213230,INTRODUCTION TO DATABASE SYSTEMS,3,1,Bachelor,1,Lecture,1,2,CSE Department,[08:30-09:20 EIT 008 Sunday Tuesday Thursday],,,1
+1,230213240,MICROPROCESSOR SYSTEMS & APPLICATIONS,3,1,Bachelor,1,Lecture,1,2,CSE Department,[10:00-11:15 EIT 208 Monday Wednesday],,,0
+1,230213240,MICROPROCESSOR SYSTEMS & APPLICATIONS,3,1,Bachelor,1,Lecture,2,2,CSE Department,[11:30-12:45 EIT 101 Monday Wednesday],,,0
+1,230214130,OPERATING SYSTEMS,3,1,Bachelor,1,Lecture,1,2,CSE Department,[09:30-10:20 EIT 208 Sunday Tuesday Thursday],,,0
+1,230214130,OPERATING SYSTEMS,3,1,Bachelor,1,Lecture,2,2,CSE Department,[11:30-12:45 EIT 208 Monday Wednesday],,,0
+1,230214160,MICROPROCESSOR LAB,1,1,Bachelor,2,Lab,1,2,CSE Department,[08:30-11:20 EIT 205 Sunday],,,0
+1,230214160,MICROPROCESSOR LAB,1,1,Bachelor,2,Lab,2,2,CSE Department,[08:30-11:20 EIT 205 Tuesday],,,0
+1,230214220,COMPUTER NETWORK LAB,1,1,Bachelor,2,Lab,1,2,CSE Department,[13:00-15:50 EIT 214 Wednesday],,,0
+1,230214220,COMPUTER NETWORK LAB,1,1,Bachelor,2,Lab,2,2,CSE Department,[13:00-15:50 EIT 214 Monday],,,0
+1,230214220,COMPUTER NETWORK LAB,1,1,Bachelor,2,Lab,3,2,CSE Department,[14:30-17:20 EIT 214 Thursday],,,1
+1,230214230,SOFTWARE ENGINEERING,3,1,Bachelor,1,Lecture,1,2,CSE Department,[11:30-12:45 EIT 008 Monday Wednesday],,,0
+1,230214230,SOFTWARE ENGINEERING,3,1,Bachelor,1,Lecture,2,2,CSE Department,[13:00-14:15 EIT 210 Monday Wednesday],,,0
+1,230214500,SELECTED TOPICS IN COMPUTER SYSTEMS ENGINEERING,3,1,Bachelor,1,Lecture,1,2,CSE Department,[08:30-09:45 EIT 112 Monday Wednesday],,,1
+1,230214500,SELECTED TOPICS IN COMPUTER SYSTEMS ENGINEERING,3,1,Bachelor,1,Lecture,2,2,CSE Department,[08:30-09:20 EIT 217 Sunday Tuesday Thursday],,,0
+1,230214520,ARTIFICIAL INTELLIGENCE,3,1,Bachelor,1,Lecture,2,2,CSE Department,[08:30-09:45 EIT 008 Monday Wednesday],,,1
+1,230214520,ARTIFICIAL INTELLIGENCE,3,1,Bachelor,1,Lecture,3,2,CSE Department,[10:00-11:15 EIT 008 Monday Wednesday],,,1
+1,240113992,INTERNSHIP,6,1,Bachelor,1,Lecture,1,2,CSE Department,[09:00-15:00  9999 Sunday Tuesday Thursday],,,1
+1,240113992,INTERNSHIP,6,1,Bachelor,1,Lecture,2,2,CSE Department,[09:00-15:00  9999 Saturday Monday Wednesday],,,1
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,1,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,1
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,2,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,0
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,3,2,CSE Department,[22:00-22:50  99999 Thursday][23:00-23:50  99999 Thursday],,,0
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,4,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,0
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,5,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,1
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,6,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,0
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,7,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,1
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,8,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,0
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,9,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,0
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,10,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,1
+1,230215110,SENIOR PROJECT I,2,1,Bachelor,1,Lecture,11,2,CSE Department,[22:00-22:50  9999 Thursday][23:00-23:50  9999 Thursday],,,1
+1,230215120,EMBEDDED SYSTEMS,3,1,Bachelor,1,Lecture,1,2,CSE Department,[10:30-11:20 EIT 208 Sunday Tuesday Thursday],,,1
+1,230215120,EMBEDDED SYSTEMS,3,1,Bachelor,1,Lecture,2,2,CSE Department,[11:30-12:20 EIT 208 Sunday Tuesday Thursday],,,0
+1,230215130,ASSEMBLY PROGRAMMING LAB,1,1,Bachelor,2,Lab,1,2,CSE Department,[14:30-17:20 EIT 107 Tuesday],,,1
+1,230215130,ASSEMBLY PROGRAMMING LAB,1,1,Bachelor,2,Lab,2,2,CSE Department,[13:00-15:50 EIT 217 Wednesday],,,0
+1,230215130,ASSEMBLY PROGRAMMING LAB,1,1,Bachelor,2,Lab,3,2,CSE Department,[14:30-17:20 AFS 206 Sunday],,,0
+1,230215140,EMBEDDED SYSTEMS LAB,1,1,Bachelor,2,Lab,1,2,CSE Department,[13:30-16:20 EIT 205 Sunday],,,1
+1,230215140,EMBEDDED SYSTEMS LAB,1,1,Bachelor,2,Lab,2,2,CSE Department,[13:30-16:20 EIT 205 Tuesday],,,1
+1,230215140,EMBEDDED SYSTEMS LAB,1,1,Bachelor,2,Lab,3,2,CSE Department,[13:00-15:50 EIT 205 Wednesday],,,0
+1,230215150,LINUX LAB,1,1,Bachelor,2,Lab,1,2,CSE Department,[08:30-11:20 EIT 214 Tuesday],,,0
+1,230215150,LINUX LAB,1,1,Bachelor,2,Lab,2,2,CSE Department,[08:30-11:20 EIT 214 Sunday],,,0
+1,230215150,LINUX LAB,1,1,Bachelor,2,Lab,3,2,CSE Department,[08:30-11:20 EIT 112 Thursday],,,0
+1,230215170,ENGINEERING PROJECT MANAGEMENT,3,1,Bachelor,1,Lecture,1,2,CSE Department,[10:00-11:15 DAR B110 Monday Wednesday],,,0
+1,230215200,COMPUTER ARCHITECTURE,3,1,Bachelor,1,Lecture,1,2,CSE Department,[13:00-14:15 EIT 008 Monday Wednesday],,,0
+1,230215210,DATABASE LAB,1,1,Bachelor,2,Lab,1,2,CSE Department,[08:30-11:20 EIT 010 Wednesday],,,0
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,1,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,0
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,2,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,0
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,3,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,1
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,4,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,1
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,5,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,0
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,6,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,0
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,7,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,0
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,8,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,0
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,9,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,0
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,10,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,1
+1,230215220,SENIOR PROJECT II,3,1,Bachelor,1,Lecture,11,2,CSE Department,[19:00-20:15  9999 Thursday][20:30-21:45  9999 Thursday],,,1
+1,230215600,SELECTED PROGRAMMING LANGUAGE,3,1,Bachelor,1,Lecture,1,2,CSE Department,[14:30-15:45 EIT 010 Monday Wednesday],,,0
+1,230215610,DATABASE PROGRAMMING,3,1,Bachelor,1,Lecture,2,2,CSE Department,[11:30-12:20 EIT 010 Sunday Tuesday Thursday],,,1
+1,230215640,WEB PROGRAMMING,3,1,Bachelor,1,Lecture,1,2,CSE Department,[11:30-12:45 EIT 112 Monday Wednesday],,,1
+1,230215640,WEB PROGRAMMING,3,1,Bachelor,1,Lecture,2,2,CSE Department,[10:00-11:15 EIT 112 Monday Wednesday],,,0
+1,230215670,COMPUTER VISION & IMAGE PROCESSING,3,1,Bachelor,1,Lecture,1,2,CSE Department,[14:30-15:20 EIT 008 Sunday Tuesday Thursday],,,0
+1,230215690,VERIFICATION AND VALIDATION OF SOFTWARE,3,1,Bachelor,1,Lecture,1,2,CSE Department,[08:30-09:20 EIT 208 Sunday Tuesday Thursday],,,0
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,1,1,Computer Science Department,[11:30-12:20 EIT 107 Wednesday][11:30-12:20 DSA 207 Monday],,,0
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,2,1,Computer Science Department,[12:30-13:20 AFS 225 Wednesday][12:30-13:20 DSA 203 Monday],,,0
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,4,1,Computer Science Department,[09:30-10:20 DSA 203 Monday Wednesday],,,0
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,6,1,Computer Science Department,[12:30-13:20 EIT 204 Wednesday][12:30-13:20 DSA 201 Monday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,8,1,Computer Science Department,[14:30-15:20 DSA 201 Sunday Tuesday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,9,1,Computer Science Department,[10:30-11:20 EIT 217 Sunday Tuesday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,11,1,Computer Science Department,[11:30-12:20 EIT 004 Sunday][11:30-12:20 DSA 202 Tuesday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,19,1,Computer Science Department,[10:30-11:20 DSA 201 Monday Wednesday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,22,1,Computer Science Department,[11:30-12:20 AFS 227 Tuesday][11:30-12:20 DSA 201 Sunday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,23,1,Computer Science Department,[08:30-09:20 EIT 010 Sunday Tuesday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,28,1,Computer Science Department,[08:30-09:20 EIT 004 Sunday][08:30-09:20 DSA 207 Tuesday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,29,1,Computer Science Department,[09:30-10:20 DSA 203 Sunday][09:30-10:20 DSA 201 Tuesday],,,1
+1,240111000,COMPUTER SKILLS,2,13,Diploma,1,Lecture,39,1,Computer Science Department,[12:30-13:20 EIT 010 Monday][12:30-13:20 DSA 201 Wednesday],,,1
+1,240111000,COMPUTER SKILLS,2,13,Diploma,1,Lecture,40,1,Computer Science Department,[08:30-09:20 EIT 010 Monday][08:30-09:20 EIT 217 Wednesday],,,0
+1,240111000,COMPUTER SKILLS,2,13,Diploma,1,Lecture,41,1,Computer Science Department,[08:30-09:20 DSA 201 Monday Wednesday],,,1
+1,240111000,COMPUTER SKILLS,2,13,Diploma,1,Lecture,42,1,Computer Science Department,[12:30-13:20 DSA 207 Monday Wednesday],,,1
+1,240111000,COMPUTER SKILLS,2,13,Diploma,1,Lecture,43,1,Computer Science Department,[11:30-12:20 EIT 010 Wednesday][11:30-12:20 DSA 203 Monday],,,0
+1,240111000,COMPUTER SKILLS,2,13,Diploma,1,Lecture,45,1,Computer Science Department,[11:30-12:20 EIT 004 Wednesday][11:30-12:20 EIT 010 Monday],,,0
+1,240111000,COMPUTER SKILLS,2,13,Diploma,1,Lecture,46,1,Computer Science Department,[12:30-13:20 EIT 204 Monday][12:30-13:20 DSA Student.edu Wednesday],,,0
+1,240111000,COMPUTER SKILLS,2,13,Diploma,1,Lecture,48,1,Computer Science Department,[12:30-13:20 AFS 225 Monday][13:30-14:20 DSA 207 Sunday],,,1
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,49,1,Computer Science Department,[13:30-14:20 DSA 203 Monday Wednesday],,,0
+1,240111000,COMPUTER SKILLS,2,1,Bachelor,1,Lecture,50,1,Computer Science Department,[10:30-11:20 EIT 002 Tuesday][10:30-11:20 DSA 201 Sunday],,,0
+1,240111001,INTRODUCTION TO COMPUTERS,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[08:30-09:45 EIT 210 Wednesday][08:30-09:45 DSA 207 Monday],,,0
+1,240111001,INTRODUCTION TO COMPUTERS,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[11:30-12:20 AFS 227 Tuesday][11:30-12:20  9999 Thursday][11:30-12:20 DSA 201 Sunday],,,0
+1,240111020,PROGRAMMING FUNDAMENTALS I (LAB),1,1,Bachelor,2,Lab,1,1,Computer Science Department,[12:30-14:20 AFS 206 Wednesday],,,1
+1,240111020,PROGRAMMING FUNDAMENTALS I (LAB),1,1,Bachelor,2,Lab,2,1,Computer Science Department,[14:30-16:20 AFS 106 Wednesday],,,0
+1,240111020,PROGRAMMING FUNDAMENTALS I (LAB),1,1,Bachelor,2,Lab,3,1,Computer Science Department,[14:30-16:20 EIT 107 Sunday],,,0
+1,240111020,PROGRAMMING FUNDAMENTALS I (LAB),1,1,Bachelor,2,Lab,4,1,Computer Science Department,[12:30-14:20 EIT 107 Wednesday],,,1
+1,240111020,PROGRAMMING FUNDAMENTALS I (LAB),1,1,Bachelor,2,Lab,5,1,Computer Science Department,[12:30-14:20 EIT 010 Wednesday],,,0
+1,240111020,PROGRAMMING FUNDAMENTALS I (LAB),1,1,Bachelor,2,Lab,6,1,Computer Science Department,[13:30-15:20 EIT 010 Tuesday],,,1
+1,240111020,PROGRAMMING FUNDAMENTALS I (LAB),1,1,Bachelor,2,Lab,8,1,Computer Science Department,[14:30-16:20 EIT 104 Sunday],,,0
+1,240111030,PROGRAMMING FUNDAMENTALS I C++,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[11:30-12:20 EIT 001 Sunday Tuesday Thursday],,,1
+1,240111030,PROGRAMMING FUNDAMENTALS I C++,3,1,Bachelor,1,Lecture,4,1,Computer Science Department,[09:30-10:20 EIT 001 Sunday Tuesday Thursday],,,0
+1,240111030,PROGRAMMING FUNDAMENTALS I C++,3,1,Bachelor,1,Lecture,5,1,Computer Science Department,[08:30-09:20 DSA 203 Sunday Tuesday Thursday],,,0
+1,240111030,PROGRAMMING FUNDAMENTALS I C++,3,1,Bachelor,1,Lecture,6,1,Computer Science Department,[08:30-09:20 EIT 009 Sunday Tuesday Thursday],,,1
+1,240111030,PROGRAMMING FUNDAMENTALS I C++,3,1,Bachelor,1,Lecture,7,1,Computer Science Department,[10:00-11:15 EIT 004 Monday Wednesday],,,1
+1,240111030,PROGRAMMING FUNDAMENTALS I C++,3,1,Bachelor,1,Lecture,8,1,Computer Science Department,[13:00-14:15 EIT 009 Monday Wednesday],,,0
+1,240111050,PROGRAMMING FUNDAMENTALS I FOR IT,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[08:30-09:45 EIT 004 Monday Wednesday],,,1
+1,240111060,PROGRAMMING FUNDAMENTALS I LAB FOR IT,1,1,Bachelor,2,Lab,1,1,Computer Science Department,[14:30-16:20 EIT 112 Monday],,,0
+1,240111100,DIGITAL LOGIC DESIGN,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[10:00-11:15 EIT 001 Monday Wednesday],,,1
+1,240111100,DIGITAL LOGIC DESIGN,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[09:30-10:20 EIT 009 Sunday Tuesday Thursday],,,1
+1,240112001,PROGRAMMING FUNDAMENTALS II,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[08:30-09:45 EIT 009 Monday Wednesday],,,1
+1,240112001,PROGRAMMING FUNDAMENTALS II,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[09:30-10:20 EIT 004 Sunday Tuesday Thursday],,,0
+1,240112001,PROGRAMMING FUNDAMENTALS II,3,1,Bachelor,1,Lecture,3,1,Computer Science Department,[11:30-12:45 EIT 001 Monday Wednesday],,,1
+1,240112030,DATA STRUCTURES,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[11:30-12:45 AFS 227 Monday Wednesday],,,0
+1,240112030,DATA STRUCTURES,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[13:30-14:20 EIT 004 Sunday Tuesday Thursday],,,0
+1,240112100,PROGRAMMING FUNDAMENTALS II FOR IT,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[13:30-14:20 EIT 101 Sunday Tuesday Thursday],,,1
+1,240112110,INTRODUCTION TO COMPUTER ORGANIZATION,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[10:30-11:20 EIT 009 Sunday Tuesday Thursday],,,0
+1,240112110,INTRODUCTION TO COMPUTER ORGANIZATION,3,1,Bachelor,1,Lecture,3,1,Computer Science Department,[08:30-09:45 EIT 001 Monday Wednesday],,,1
+1,240112120,PROGRAMMING FUNDAMENTALS II LAB,1,1,Bachelor,2,Lab,1,1,Computer Science Department,[14:30-16:20 EIT 112 Sunday],,,0
+1,240112120,PROGRAMMING FUNDAMENTALS II LAB,1,1,Bachelor,2,Lab,2,1,Computer Science Department,[14:30-16:20 EIT 107 Thursday],,,0
+1,240112120,PROGRAMMING FUNDAMENTALS II LAB,1,1,Bachelor,2,Lab,3,1,Computer Science Department,[14:30-16:20 AFS 206 Thursday],,,0
+1,240112130,DATA STRUCTURE LAB,1,1,Bachelor,2,Lab,1,1,Computer Science Department,[14:30-16:20 EIT 217 Monday],,,1
+1,240112130,DATA STRUCTURE LAB,1,1,Bachelor,2,Lab,2,1,Computer Science Department,[14:30-16:20 EIT 010 Sunday],,,1
+1,240112200,PROGRAMMING FUNDAMENTALS II LAB FOR IT,1,1,Bachelor,2,Lab,1,1,Computer Science Department,[14:30-16:20 EIT 217 Thursday],,,0
+1,240112200,PROGRAMMING FUNDAMENTALS II LAB FOR IT,1,1,Bachelor,2,Lab,2,1,Computer Science Department,[14:30-16:20 EIT 104 Wednesday],,,0
+1,240113020,ALGORITHMS AND PROGRAMMING TECHNIQUES,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[13:30-14:20 EIT 009 Sunday Tuesday Thursday],,,0
+1,240113020,ALGORITHMS AND PROGRAMMING TECHNIQUES,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[10:00-11:15 DSA 202 Monday Wednesday],,,0
+1,240113121,INTRODUCTION TO DATABASE,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[13:00-14:15 EIT 004 Monday Wednesday],,,0
+1,240113131,INTRODUCTION TO DATABASE (LAB),1,1,Bachelor,2,Lab,1,1,Computer Science Department,[14:30-16:20 ENG 102 Tuesday],,,0
+1,240113131,INTRODUCTION TO DATABASE (LAB),1,1,Bachelor,2,Lab,2,1,Computer Science Department,[14:30-16:20 EIT 010 Thursday],,,1
+1,240113170,INTRODUCTION TO SOFTWARE ENGINEERING,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[13:00-14:15 EIT 001 Monday][13:00-14:15 DSA 202 Wednesday],,,0
+1,240113220,INFORMATION SECURITY,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[10:30-11:20 EIT 001 Sunday Tuesday Thursday],,,1
+1,240113220,INFORMATION SECURITY,3,1,Bachelor,1,Lecture,3,1,Computer Science Department,[11:30-12:45 AFS 123 Monday Wednesday],,,1
+1,240113290,MOBILE PROGRAMMING,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[10:00-11:15 EIT 010 Monday][10:00-11:15 EIT 217 Wednesday],,,1
+1,240113290,MOBILE PROGRAMMING,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[09:30-10:20 EIT 010 Sunday Tuesday Thursday],,,1
+1,240113310,INTRODUCTION TO OPERATING SYSTEMS,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[11:30-12:45 AFS 126 Wednesday][11:30-12:45 DSA 202 Monday],,,1
+1,240113310,INTRODUCTION TO OPERATING SYSTEMS,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[09:30-10:20 EIT 105 Sunday Tuesday Thursday],,,1
+1,240113620,SOFTWARE TESTING AND VALIDATION,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[08:30-09:20 EIT 001 Sunday Tuesday Thursday],,,0
+1,240114020,MACHINE LEARNING,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[11:30-12:45 AFS 218 Monday Wednesday],,,0
+1,240114080,THEORY OF COMPUTATION,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[11:30-12:20 EIT 009 Sunday Tuesday Thursday],,,1
+1,240114331,COMPUTER ARCHITECTURE,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[14:30-15:20 EIT 001 Sunday Tuesday Thursday],,,0
+1,240114331,COMPUTER ARCHITECTURE,3,1,Bachelor,1,Lecture,2,1,Computer Science Department,[11:30-12:45 EIT 009 Monday Wednesday],,,1
+1,240114340,UNIX LAB,1,1,Bachelor,2,Lab,1,1,Computer Science Department,[14:30-16:20 EIT 112 Thursday],,,0
+1,240114500,SPECIAL TOPIC IN IT,3,1,Bachelor,1,Lecture,1,1,Computer Science Department,[08:30-09:45  9999 Monday Wednesday],,,1
+1,240211013,INTRODUCTION TO INFORMATION TECHNOLOGY,2,1,Bachelor,1,Lecture,1,2,Information Technology Department,[09:30-10:20 EIT 204 Sunday Tuesday],,,1
+1,240211013,INTRODUCTION TO INFORMATION TECHNOLOGY,2,1,Bachelor,1,Lecture,5,2,Information Technology Department,[11:30-12:20 EIT 204 Sunday Tuesday],,,0
+1,240211013,INTRODUCTION TO INFORMATION TECHNOLOGY,2,1,Bachelor,1,Lecture,7,2,Information Technology Department,[11:30-12:20 EIT 204 Monday Wednesday],,,0
+1,240211030,INTRODUCTION TO INFORMATION TECHNOLOGY LAB,1,1,Bachelor,2,Lab,2,2,Information Technology Department,[13:30-15:20 DSA 203 Tuesday],,,0
+1,240211030,INTRODUCTION TO INFORMATION TECHNOLOGY LAB,1,1,Bachelor,2,Lab,3,2,Information Technology Department,[13:30-15:20 DSA 203 Sunday],,,1
+1,240211030,INTRODUCTION TO INFORMATION TECHNOLOGY LAB,1,1,Bachelor,2,Lab,6,2,Information Technology Department,[13:30-15:20 EIT 217 Sunday],,,1
+1,240211030,INTRODUCTION TO INFORMATION TECHNOLOGY LAB,1,1,Bachelor,2,Lab,7,2,Information Technology Department,[10:30-12:20 DSA 207 Tuesday],,,0
+1,240212010,PRINCIPLES OF OBJECT ORIENTED PROGRAMMING,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[08:30-09:45 EIT 107 Monday Wednesday],,,1
+1,240212010,PRINCIPLES OF OBJECT ORIENTED PROGRAMMING,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[11:30-12:20 EIT 217 Sunday Tuesday Thursday],,,0
+1,240212010,PRINCIPLES OF OBJECT ORIENTED PROGRAMMING,3,1,Bachelor,1,Lecture,4,2,Information Technology Department,[11:30-12:45 EIT 217 Monday Wednesday],,,1
+1,240212010,PRINCIPLES OF OBJECT ORIENTED PROGRAMMING,3,1,Bachelor,1,Lecture,5,2,Information Technology Department,[10:00-11:15 EIT 107 Monday Wednesday],,,0
+1,240212010,PRINCIPLES OF OBJECT ORIENTED PROGRAMMING,3,1,Bachelor,1,Lecture,7,2,Information Technology Department,[11:30-12:45 EIT 107 Monday][11:30-12:45 DSA 202 Wednesday],,,0
+1,240212020,INTRODUCTION TO MULTIMEDIA,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[10:30-11:20 EIT 107 Sunday Tuesday Thursday],,,1
+1,240212100,FUNDAMENTALS OF COMPUTER GRAPHICS,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[14:30-15:45 EIT 002 Monday Wednesday],,,0
+1,240212100,FUNDAMENTALS OF COMPUTER GRAPHICS,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[10:00-11:15 EIT 009 Monday Wednesday],,,0
+1,240212401,COMPUTER MODELING,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[08:30-09:20 EIT 107 Sunday Tuesday Thursday],,,1
+1,240212401,COMPUTER MODELING,3,1,Bachelor,1,Lecture,3,2,Information Technology Department,[10:00-11:15 EIT 104 Monday Wednesday],,,0
+1,240213040,COMPUTER NETWORKS I,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[10:00-11:15 EIT 002 Monday Wednesday],,,0
+1,240213040,COMPUTER NETWORKS I,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[11:30-12:20 EIT 002 Sunday Tuesday Thursday],,,0
+1,240213040,COMPUTER NETWORKS I,3,1,Bachelor,1,Lecture,3,2,Information Technology Department,[08:30-09:45 EIT 002 Monday Wednesday],,,1
+1,240213080,WEB DEVELOPMENT I,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[13:30-14:20 EIT 112 Sunday Tuesday Thursday],,,1
+1,240213080,WEB DEVELOPMENT I,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[09:30-10:20 EIT 107 Sunday Tuesday Thursday],,,1
+1,240213080,WEB DEVELOPMENT I,3,1,Bachelor,1,Lecture,3,2,Information Technology Department,[13:30-14:20 EIT 107 Sunday Tuesday Thursday],,,1
+1,240213220,COMPUTER NETWORKS LAB,1,1,Bachelor,2,Lab,1,2,Information Technology Department,[14:30-16:20 EIT 214 Sunday],,,0
+1,240213220,COMPUTER NETWORKS LAB,1,1,Bachelor,2,Lab,2,2,Information Technology Department,[14:30-16:20 EIT 214 Tuesday],,,1
+1,240213220,COMPUTER NETWORKS LAB,1,1,Bachelor,2,Lab,3,2,Information Technology Department,[14:30-16:20 EIT 214 Thursday],,,1
+1,240213230,VISUAL PROGRAMMING (BASIC),3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[11:30-12:20 EIT 107 Sunday Tuesday Thursday],,,1
+1,240213230,VISUAL PROGRAMMING (BASIC),3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[14:30-15:45 EIT 107 Monday Wednesday],,,0
+1,240213250,COMPUTER GAMES DESIGN AND DEVELOPMENT,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[09:30-10:20 EIT 002 Sunday Tuesday Thursday],,,0
+1,240213480,SPEECH COMMUNICATION AND TECHNICAL WRITING,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[08:30-09:20 EIT 101 Sunday Tuesday Thursday],,,1
+1,240213480,SPEECH COMMUNICATION AND TECHNICAL WRITING,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[09:30-10:20 EIT 101 Sunday Tuesday Thursday],,,0
+1,240214040,COMPUTER NETWORKS II,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[10:30-11:20 EIT 004 Sunday Tuesday Thursday],,,0
+1,240214100,DIGITAL VIDEO AND AUDIO,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[08:30-09:45 EIT 204 Monday Wednesday],,,1
+1,240214311,COMPUTER ANIMATION,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[14:30-15:45  9999 Monday Wednesday],,,0
+1,240214321,ENTREPRISE INNOVATION AND ENTREPRENEURSHIP,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[10:30-11:20 EIT 204 Sunday Tuesday Thursday],,,0
+1,240214350,ONLINE ADVERTISING FUNDAMENTALS,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[13:00-14:15 EIT 101 Monday Wednesday],,,1
+1,240214360,SCREENWRITING AND STORYBOARDING,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[11:30-12:20 AFS 201 Sunday Tuesday Thursday],,,0
+1,240214360,SCREENWRITING AND STORYBOARDING,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[10:30-11:20 EIT 101 Sunday Tuesday Thursday],,,1
+1,240214471,INFORMATION TECHNONLOGY PROJECT MANAGEMENT,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[09:30-10:20 EIT 104 Sunday Thursday][09:30-10:20 EIT 112 Tuesday],,,0
+1,240221200,CREATIVE ARTS,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[13:00-14:15 EIT 001 Wednesday][13:00-14:15 EIT 107 Monday],,,0
+1,240221200,CREATIVE ARTS,3,1,Bachelor,1,Lecture,2,2,Information Technology Department,[14:30-15:45 EIT 101 Monday Wednesday],,,1
+1,240222500,DIGITAL PHOTOGRAPHY AND COMPOSITION,3,1,Bachelor,1,Lecture,1,2,Information Technology Department,[11:30-12:45 EIT 002 Monday Wednesday],,,0
+1,240222500,DIGITAL PHOTOGRAPHY AND COMPOSITION,3,1,Bachelor,1,Lecture,4,2,Information Technology Department,[14:30-15:45 EIT 004 Sunday Tuesday],,,0
